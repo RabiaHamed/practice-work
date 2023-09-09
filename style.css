@@ -1,0 +1,71 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/top-view-coffee-beans-with-copy-space_23-2148267862.jpg?w=740&t=st=1694118557~exp=1694119157~hmac=c1646d4005d77c7caf29d8b8454757f88e85205d67ea7b2cbe74faae1d471a43);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#main{
+    box-sizing: border-box;
+    background-color: #38220f;
+    width: 80%;
+    justify-content: center;
+    margin-left: 100px;
+    flex-direction: column;
+    margin-top: 100px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+}
+.logo{
+    margin-left: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    
+}
+/* #page,p{
+    flex-direction: row;
+    color: white;
+    padding: 10px;
+    font-size: 60px;
+    display: block;
+}
+.color{
+    color: rgb(221, 142, 38);
+} */
+.img{
+    margin-left: 70px;
+    display: flex;
+}
+/* button{
+    margin-bottom: 50px;
+    margin-left: 50px;
+    width: 10%;
+    box-sizing: border-box;
+    color: white;
+    background-color: rgb(221, 142, 38);
+    margin-top: 10px;
+} */
+td,p{
+    flex-direction: row;
+    color: white;
+    padding: 10px;
+    font-size: 50px;
+}
+.color{
+    color: rgb(221, 142, 38);
+}
+#page{
+    margin: 10px;
+    padding: 20px;
+}
+button{
+    margin-bottom: 50px;
+    margin-left: 100px;
+    box-sizing: border-box;
+    color: white;
+    background-color:rgb(221, 142, 38);
+    border-color: rgb(221, 142, 38);
+    width: 25%;
+}
